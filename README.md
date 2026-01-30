@@ -6,9 +6,9 @@ A production-grade Bible Reader application built with Flutter. This project dem
 
 ## 📸 Screenshots
 
-| Book List (Home) | Chapter Reading | Verse Search |
-|:---:|:---:|:---:|
-| <img src="assets/home.png" width="250" alt="Home Screen" /> | <img src="assets/reading.png" width="250" alt="Reading Screen" /> | <img src="assets/search.png" width="250" alt="Search Screen" /> |
+| Book List | Chapter List | Chapter Reading | Verse Search |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/home.jpg" width="250" alt="Home Screen" /> | <img src="assets/chapters.jpg" width="250" alt="Home Screen" /> |<img src="assets/reading.jpg" width="250" alt="Reading Screen" /> | <img src="assets/search.jpg" width="250" alt="Search Screen" /> |
 
 ---
 
