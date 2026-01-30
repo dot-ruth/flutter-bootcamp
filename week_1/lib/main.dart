@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-import 'screens/home_screen.dart';
+import 'screens/book_list_screen.dart'; 
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -19,7 +19,7 @@ class Week1App extends StatelessWidget {
       splitScreenMode: true,
       builder: (context, child) {
         return MaterialApp(
-          title: 'Filmku Week 1',
+          title: 'Bible Reader Week 1',
           theme: ThemeData.dark().copyWith(
             scaffoldBackgroundColor: Colors.black,
             colorScheme: const ColorScheme.dark(
@@ -27,10 +27,9 @@ class Week1App extends StatelessWidget {
             ),
           ),
           debugShowCheckedModeBanner: false,
-          home: const HomeScreen(),
+          home: const BookListScreen(),
         );
       },
     );
   }
 }
-
