@@ -4,7 +4,7 @@ A production-grade Bible Reader application built with Flutter. This project dem
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Book List | Chapter List | Chapter Reading | Verse Search |
 |:---:|:---:|:---:|:---:|
@@ -65,7 +65,7 @@ To run the final version of the app:
 
 2.  **Navigate to the final project directory:**
     ```bash
-    cd week_4_advanced
+    cd week_4
     ```
 
 3.  **Install dependencies:**
